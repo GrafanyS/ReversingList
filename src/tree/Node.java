@@ -1,10 +1,10 @@
-package tree;
-
-
-public class Node {
-//    private V value;
-
-    private Color color;
-    private Node left;
-    private Node right;
-}
+//package tree;
+//
+//
+//public class Node<V extends Comparable<V>> {
+//    protected V value;
+//
+//    protected Color color;
+//    protected Node left;
+//    protected Node right;
+//}
